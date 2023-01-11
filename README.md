@@ -7,5 +7,6 @@ useEffect is utilized to update the state when the window is resized. React re-r
 
 Some helpful links about resizing and debouncing:
 
-https://www.pluralsight.com/guides/re-render-react-component-on-window-resize
-https://www.freecodecamp.org/news/javascript-debounce-example/
+- https://www.pluralsight.com/guides/re-render-react-component-on-window-resize
+
+- https://www.freecodecamp.org/news/javascript-debounce-example/
